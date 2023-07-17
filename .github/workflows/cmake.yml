@@ -1,0 +1,2 @@
+cmake -G "Ninja" -DMSYS=TRUE -DCMAKE_BUILD_TYPE=Release .
+ninja
